@@ -9,7 +9,7 @@ A análise foi conduzida inteiramente dentro do ambiente **Databricks Community 
 ## Execução no Databricks
 
 1. Importe os notebooks da pasta `/notebooks/` para seu workspace no Databricks.
-2. Crie uma pasta `FileStore/raw/` no DBFS com os arquivos brutos (baixados automaticamente pelo notebook `01_ingestion_raw`).
+2. Preencha o json com o nome do seu workspace e schema 
 3. Execute os notebooks na seguinte ordem:
    - `01_ingestion_raw`
    - `02_pre_processing`
