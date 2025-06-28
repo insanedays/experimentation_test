@@ -83,7 +83,7 @@ Este projeto inclui um material de apresentação com resumo executivo, principa
 
 Apesar da campanha de cupons ter gerado aumento na frequência de pedidos por cliente, ela não elevou o ticket médio. O comportamento observado sugere que clientes do grupo tratamento usaram o cupom para economizar, fragmentando pedidos para obter mais descontos o que resulta em maior volume com menor rentabilidade.
 
-A análise de segmentação comportamental indicou que o cupom teve impacto heterogêneo. Clientes com maior ticket médio pré-existente responderam melhor. Já os clientes de baixo valor mostraram pouca resposta ou uso ineficiente do cupom. Campanhas futuras devem segmentar melhor o público-alvo e condicionar o uso do benefício a regras que garantam retorno financeiro (ex: valor mínimo de compra, incentivo em itens de alta margem, etc).
+Campanhas futuras devem segmentar melhor o público-alvo e condicionar o uso do benefício a regras que garantam retorno financeiro (ex: valor mínimo de compra, incentivo em itens de alta margem, etc).
 
 A análise sugere que a próxima campanha utilize:
 
