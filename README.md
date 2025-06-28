@@ -75,7 +75,7 @@ Pode explicar parte da resposta negativa ou neutra à campanha. Permite segmenta
 
 Este projeto inclui um material de apresentação com resumo executivo, principais achados e recomendações de negócio. O objetivo é facilitar a comunicação com stakeholders não técnicos.
 
-📎 [Clique aqui para acessar a apresentação (adicionar link)](INSIRA_O_LINK_AQUI)
+📎 [Clique aqui para acessar a apresentação ](apresentacao.pdf)
 
 ---
 
