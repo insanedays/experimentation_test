@@ -14,6 +14,7 @@ A análise foi conduzida inteiramente dentro do ambiente **Databricks Community 
    - `01_ingestion_raw`
    - `02_pre_processing`
    - `03_ab_test_analysis`
+   - `04_segmetal_analysis`
 4. As dependências estão listadas no arquivo `requirements.txt`.
 
 > Obs.: Este projeto utiliza volumes do Unity Catalog. Certifique-se de possuir permissões de escrita em um catálogo ativo.
